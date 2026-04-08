@@ -1,0 +1,13 @@
+# 爬虫核心
+requests>=2.31.0
+fake-useragent>=1.5.1
+tenacity>=8.2.3
+tqdm>=4.66.1
+
+# 数据处理
+pandas>=2.1.4
+openpyxl>=3.1.2
+
+# 可视化
+matplotlib>=3.8.2
+seaborn>=0.13.2
